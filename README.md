@@ -22,9 +22,13 @@ a)	Cách cài đặt và khởi chạy ứng dụng
 -	Truy cập vào đường link để tải phần mềm về máy: https://nolympia.tech/download
 -	Sau khi tải thành công, thực hiện giải nén và khởi chạy file “Olym.exe” – dưới quyền Administrator.
 -	Bấm nút “Install” để tiến hành cài đặt (chỉ cần cài duy nhất một lần).
--	Tắt phần mềm và vào lại “Olym.exe” để khởi chạy phần mềm
--	Các máy con thi đấu không cần phải cài đặt bất cứ gì. Chỉ cần sau khi máy chủ khởi tạo thì truy cập vào server theo máy chủ để thi đấu
+-	Tắt phần mềm và vào lại “Olym.exe” để khởi chạy phần mềm.
+-	Các máy con thi đấu không cần phải cài đặt bất cứ gì. Chỉ cần sau khi máy chủ khởi tạo thì truy cập vào server theo máy chủ để thi đấu.
  
+ 
+ 
+ 
+ 
 b)	Cách sử dụng
 -	Mỗi người chơi sẽ được cấp một tài khoản và mật khẩu tương ứng.
 -	Admin là người quản lý điểm và các thao tác máy ở giao diện web.
