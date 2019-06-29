@@ -1,0 +1,25 @@
+.isAdmin {
+  background-color: red;
+}
+
+input, textarea {
+  border: none;
+  border-bottom: dashed 1px #000;
+  background-color: transparent;
+  width: 80%;
+}
+
+.password-hash, .password-hash:hover {
+  cursor: context-menu;
+}
+
+.disabled {
+  display: none;
+}
+
+.answer:hover {
+  cursor: pointer;
+  border-bottom: dashed 1px red;
+  text-decoration: line-through;
+  color: red;
+}

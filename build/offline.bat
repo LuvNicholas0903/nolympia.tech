@@ -1,0 +1,1 @@
+start C:\Users\HyperX-52\Desktop\olympia\olym2019\xuatde\index.html
